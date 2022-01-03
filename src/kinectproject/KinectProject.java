@@ -30,6 +30,7 @@ public class KinectProject {
         f.add(m);
         f.setSize(1027, 720);
         f.setVisible(true);
+
     }
     
 }
